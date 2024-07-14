@@ -12,6 +12,7 @@ mypy = "^1.10.0"
 jupytext = "^1.16.2"
 python-dotenv = "^1.0.1"
 pre-commit = "^3.7.1"
+nnsight = "^0.2.19"
 
 
 [build-system]
